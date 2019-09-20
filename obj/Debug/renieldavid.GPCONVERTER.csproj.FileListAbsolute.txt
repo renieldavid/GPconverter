@@ -1,0 +1,15 @@
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\bin\Debug\renieldavid.GPCONVERTER.exe.config
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\bin\Debug\renieldavid.GPCONVERTER.exe
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\bin\Debug\renieldavid.GPCONVERTER.pdb
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER.csprojAssemblyReference.cache
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\MainWindow.g.cs
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\App.g.cs
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER_MarkupCompile.cache
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER_MarkupCompile.lref
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\MainWindow.baml
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER.g.resources
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER.Properties.Resources.resources
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER.csproj.GenerateResource.cache
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER.csproj.CoreCompileInputs.cache
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER.exe
+C:\Users\VGD pc 2\source\repos\renieldavid.GPCONVERTER\obj\Debug\renieldavid.GPCONVERTER.pdb
